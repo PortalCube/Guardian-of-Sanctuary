@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b064ff33ab516484489ebcdfd62676fe, type: 3}
+  m_Name: Wave 5
+  m_EditorClassIdentifier: 
+  name: FINAL WAVE
+  enemies:
+  - entityPrefab: {fileID: 4392932514850775344, guid: 947b3507b09c8434f920c3606d76c802, type: 3}
+    count: 40
+    spawnPoint: 0
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 947b3507b09c8434f920c3606d76c802, type: 3}
+    count: 40
+    spawnPoint: 1
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 947b3507b09c8434f920c3606d76c802, type: 3}
+    count: 40
+    spawnPoint: 2
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 947b3507b09c8434f920c3606d76c802, type: 3}
+    count: 40
+    spawnPoint: 3
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 5621b5c7397448a48aac2d0d9c4e11f0, type: 3}
+    count: 20
+    spawnPoint: 0
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 5621b5c7397448a48aac2d0d9c4e11f0, type: 3}
+    count: 20
+    spawnPoint: 1
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 5621b5c7397448a48aac2d0d9c4e11f0, type: 3}
+    count: 20
+    spawnPoint: 2
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 5621b5c7397448a48aac2d0d9c4e11f0, type: 3}
+    count: 20
+    spawnPoint: 3
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 9262cf06b5f25b34a8d0b42f16e808d4, type: 3}
+    count: 10
+    spawnPoint: 0
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 9262cf06b5f25b34a8d0b42f16e808d4, type: 3}
+    count: 10
+    spawnPoint: 1
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 9262cf06b5f25b34a8d0b42f16e808d4, type: 3}
+    count: 10
+    spawnPoint: 2
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 9262cf06b5f25b34a8d0b42f16e808d4, type: 3}
+    count: 10
+    spawnPoint: 3
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 3d9b020fc5ac306498d39dddb1d949f6, type: 3}
+    count: 8
+    spawnPoint: 0
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 3d9b020fc5ac306498d39dddb1d949f6, type: 3}
+    count: 8
+    spawnPoint: 1
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 3d9b020fc5ac306498d39dddb1d949f6, type: 3}
+    count: 8
+    spawnPoint: 2
+    time: 0
+  - entityPrefab: {fileID: 4392932514850775344, guid: 3d9b020fc5ac306498d39dddb1d949f6, type: 3}
+    count: 8
+    spawnPoint: 3
+    time: 0
